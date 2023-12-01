@@ -1,4 +1,4 @@
-const API_KEY = prompt("Create API key : / https://platform.openai.com/api-keys /" , "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")
+const API_KEY = prompt("Create API key : / https://platform.openai.com/api-keys /")
 const chatInput = document.querySelector(".chat-input textarea");
 const sendChatBtn = document.querySelector(".chat-input span");
 const chatBox = document.querySelector(".chatbox");
